@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harshitha-teki/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Combinatorics
 |  |
@@ -89,16 +92,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3271-hash-divided-string](https://github.com/Harshitha-teki/leetcode/tree/master/3271-hash-divided-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshitha-teki/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
