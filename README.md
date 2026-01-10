@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0861-flipping-an-image](https://github.com/Harshitha-teki/leetcode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
@@ -129,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshitha-teki/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
