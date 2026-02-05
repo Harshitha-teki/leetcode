@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/Harshitha-teki/leetcode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshitha-teki/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Harshitha-teki/leetcode/tree/master/1446-consecutive-characters) |
 | [2063-vowels-of-all-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshitha-teki/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
