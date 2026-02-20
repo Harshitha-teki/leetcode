@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshitha-teki/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Harshitha-teki/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshitha-teki/leetcode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Harshitha-teki/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Harshitha-teki/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Harshitha-teki/leetcode/tree/master/0861-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshitha-teki/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
