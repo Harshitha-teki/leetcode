@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshitha-teki/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harshitha-teki/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Harshitha-teki/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harshitha-teki/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshitha-teki/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitha-teki/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshitha-teki/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
