@@ -1,14 +1,15 @@
 class Solution {
 public:
     double minimumAverage(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        double min_avg = INT_MAX;
-        int j=nums.size()-1;
-        for(int i=0; i<nums.size()/2; i++){
-            double avg = (nums[i]+nums[j])/2.0;
-            min_avg = min(min_avg, avg);
-            j--;
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        vector<double>avg;
+        int l=0, r=n-1;
+        while(l<r){
+            avg.push_back((nums[l]+nums[r])/2.0);
+            l++;
+            r--;
         }
-        return min_avg;
+        return *min_element(avg.begin(), avg.end());
     }
 };
