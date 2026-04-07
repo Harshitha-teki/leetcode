@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha-teki/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshitha-teki/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/Harshitha-teki/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Harshitha-teki/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3271-hash-divided-string](https://github.com/Harshitha-teki/leetcode/tree/master/3271-hash-divided-string) |
+| [3794-reverse-string-prefix](https://github.com/Harshitha-teki/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
