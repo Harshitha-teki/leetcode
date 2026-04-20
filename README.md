@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Harshitha-teki/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha-teki/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha-teki/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Harshitha-teki/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Harshitha-teki/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshitha-teki/leetcode/tree/master/0011-container-with-most-water) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshitha-teki/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha-teki/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Harshitha-teki/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Merge Sort
 |  |
 | ------- |
