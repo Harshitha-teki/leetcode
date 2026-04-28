@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Harshitha-teki/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha-teki/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha-teki/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshitha-teki/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harshitha-teki/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Harshitha-teki/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshitha-teki/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harshitha-teki/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/Harshitha-teki/leetcode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Harshitha-teki/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshitha-teki/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha-teki/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha-teki/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshitha-teki/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshitha-teki/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Combinatorics
