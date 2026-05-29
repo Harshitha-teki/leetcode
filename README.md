@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshitha-teki/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshitha-teki/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitha-teki/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harshitha-teki/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Harshitha-teki/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Harshitha-teki/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harshitha-teki/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshitha-teki/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitha-teki/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
