@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Harshitha-teki/leetcode/tree/master/0861-flipping-an-image) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha-teki/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshitha-teki/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Harshitha-teki/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Harshitha-teki/leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Harshitha-teki/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
