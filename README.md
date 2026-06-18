@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshitha-teki/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitha-teki/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Harshitha-teki/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harshitha-teki/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/Harshitha-teki/leetcode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Harshitha-teki/leetcode/tree/master/1688-count-of-matches-in-tournament) |
