@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/0696-count-binary-substrings) |
 | [0861-flipping-an-image](https://github.com/Harshitha-teki/leetcode/tree/master/0861-flipping-an-image) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1768-merge-strings-alternately](https://github.com/Harshitha-teki/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha-teki/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Harshitha-teki/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Harshitha-teki/leetcode/tree/master/1446-consecutive-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshitha-teki/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Harshitha-teki/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Harshitha-teki/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Harshitha-teki/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshitha-teki/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Harshitha-teki/leetcode/tree/master/1980-find-unique-binary-string) |
