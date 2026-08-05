@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Harshitha-teki/leetcode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/0696-count-binary-substrings) |
 | [0861-flipping-an-image](https://github.com/Harshitha-teki/leetcode/tree/master/0861-flipping-an-image) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Harshitha-teki/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Harshitha-teki/leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Harshitha-teki/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/Harshitha-teki/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/0696-count-binary-substrings) |
