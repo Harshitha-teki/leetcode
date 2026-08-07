@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshitha-teki/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha-teki/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Harshitha-teki/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshitha-teki/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Harshitha-teki/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Harshitha-teki/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Harshitha-teki/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha-teki/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Harshitha-teki/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Harshitha-teki/leetcode/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshitha-teki/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Harshitha-teki/leetcode/tree/master/0904-fruit-into-baskets) |
