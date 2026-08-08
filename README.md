@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Harshitha-teki/leetcode/tree/master/0413-arithmetic-slices) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Harshitha-teki/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Harshitha-teki/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0706-design-hashmap](https://github.com/Harshitha-teki/leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshitha-teki/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Harshitha-teki/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Harshitha-teki/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshitha-teki/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harshitha-teki/leetcode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Harshitha-teki/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/0696-count-binary-substrings) |
 | [0861-flipping-an-image](https://github.com/Harshitha-teki/leetcode/tree/master/0861-flipping-an-image) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Harshitha-teki/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Harshitha-teki/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Harshitha-teki/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Harshitha-teki/leetcode/tree/master/1046-last-stone-weight) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshitha-teki/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshitha-teki/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Harshitha-teki/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Harshitha-teki/leetcode/tree/master/0413-arithmetic-slices) |
+| [0658-find-k-closest-elements](https://github.com/Harshitha-teki/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Harshitha-teki/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Harshitha-teki/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitha-teki/leetcode/tree/master/0930-binary-subarrays-with-sum) |
