@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshitha-teki/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshitha-teki/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshitha-teki/leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Harshitha-teki/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshitha-teki/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Harshitha-teki/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshitha-teki/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshitha-teki/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Harshitha-teki/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshitha-teki/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Harshitha-teki/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshitha-teki/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Harshitha-teki/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshitha-teki/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Harshitha-teki/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitha-teki/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitha-teki/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshitha-teki/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/Harshitha-teki/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Harshitha-teki/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
