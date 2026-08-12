@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshitha-teki/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshitha-teki/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Harshitha-teki/leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Harshitha-teki/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Harshitha-teki/leetcode/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Harshitha-teki/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 | Problem Name | Difficulty |
