@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Harshitha-teki/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Harshitha-teki/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshitha-teki/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 | Problem Name | Difficulty |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshitha-teki/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Harshitha-teki/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2063-vowels-of-all-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshitha-teki/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3271-hash-divided-string](https://github.com/Harshitha-teki/leetcode/tree/master/3271-hash-divided-string) |
 | [3794-reverse-string-prefix](https://github.com/Harshitha-teki/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Heap (Priority Queue)
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitha-teki/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshitha-teki/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha-teki/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshitha-teki/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshitha-teki/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
