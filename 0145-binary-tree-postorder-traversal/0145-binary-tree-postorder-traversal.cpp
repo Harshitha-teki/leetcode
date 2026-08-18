@@ -16,11 +16,11 @@ public:
         postOrder(root, v);
         return v;
     }
-    void postOrder(TreeNode* node, vector<int>&v){
-        if(node ==NULL)
+    void postOrder(TreeNode* root, vector<int>&v){
+        if(root==nullptr)
             return;
-        postOrder(node->left,v);
-        postOrder(node->right,v);
-        v.push_back(node->val);
+        postOrder(root->left,v);
+        postOrder(root->right, v);
+        v.push_back(root->val);
     }
 };
