@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitha-teki/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Harshitha-teki/leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Harshitha-teki/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Harshitha-teki/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Harshitha-teki/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshitha-teki/leetcode/tree/master/0344-reverse-string) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitha-teki/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Harshitha-teki/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/Harshitha-teki/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshitha-teki/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Harshitha-teki/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitha-teki/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
