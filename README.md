@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshitha-teki/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshitha-teki/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Harshitha-teki/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitha-teki/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harshitha-teki/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harshitha-teki/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshitha-teki/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshitha-teki/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Harshitha-teki/leetcode/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/Harshitha-teki/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## String
 | Problem Name | Difficulty |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Harshitha-teki/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Harshitha-teki/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Harshitha-teki/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Harshitha-teki/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
