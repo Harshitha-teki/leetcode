@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harshitha-teki/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Harshitha-teki/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshitha-teki/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshitha-teki/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Harshitha-teki/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Harshitha-teki/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshitha-teki/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitha-teki/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshitha-teki/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
