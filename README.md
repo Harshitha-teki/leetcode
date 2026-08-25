@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshitha-teki/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshitha-teki/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshitha-teki/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshitha-teki/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshitha-teki/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
