@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Harshitha-teki/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitha-teki/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshitha-teki/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1046-last-stone-weight](https://github.com/Harshitha-teki/leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Harshitha-teki/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitha-teki/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Harshitha-teki/leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/Harshitha-teki/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitha-teki/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshitha-teki/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitha-teki/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshitha-teki/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Harshitha-teki/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshitha-teki/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshitha-teki/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitha-teki/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshitha-teki/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitha-teki/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Harshitha-teki/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1732-find-the-highest-altitude](https://github.com/Harshitha-teki/leetcode/tree/master/1732-find-the-highest-altitude) |
