@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshitha-teki/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshitha-teki/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-teki/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshitha-teki/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshitha-teki/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-teki/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
