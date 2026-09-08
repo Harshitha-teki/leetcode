@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshitha-teki/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harshitha-teki/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harshitha-teki/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Harshitha-teki/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-teki/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
