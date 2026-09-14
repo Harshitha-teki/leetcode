@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Harshitha-teki/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshitha-teki/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Harshitha-teki/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1025-divisor-game](https://github.com/Harshitha-teki/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitha-teki/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harshitha-teki/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -562,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Harshitha-teki/leetcode/tree/main/1025-divisor-game/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Harshitha-teki/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
