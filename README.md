@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Harshitha-teki/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshitha-teki/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshitha-teki/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/Harshitha-teki/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Harshitha-teki/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshitha-teki/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha-teki/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshitha-teki/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Harshitha-teki/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Harshitha-teki/leetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Harshitha-teki/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Harshitha-teki/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshitha-teki/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Harshitha-teki/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshitha-teki/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha-teki/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0912-sort-an-array) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Harshitha-teki/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/0912-sort-an-array) |
 ## Design
 | Problem Name | Difficulty |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Harshitha-teki/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha-teki/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
