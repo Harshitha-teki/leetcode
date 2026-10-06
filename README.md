@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Harshitha-teki/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Harshitha-teki/leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshitha-teki/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshitha-teki/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Harshitha-teki/leetcode/tree/master/1446-consecutive-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshitha-teki/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Harshitha-teki/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0682-baseball-game](https://github.com/Harshitha-teki/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Harshitha-teki/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshitha-teki/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Harshitha-teki/leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshitha-teki/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshitha-teki/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitha-teki/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha-teki/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitha-teki/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshitha-teki/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
