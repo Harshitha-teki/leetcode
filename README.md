@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitha-teki/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Harshitha-teki/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshitha-teki/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Harshitha-teki/leetcode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Harshitha-teki/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshitha-teki/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harshitha-teki/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/Harshitha-teki/leetcode/tree/master/3271-hash-divided-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Harshitha-teki/leetcode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshitha-teki/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Harshitha-teki/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshitha-teki/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3271-hash-divided-string](https://github.com/Harshitha-teki/leetcode/tree/master/3271-hash-divided-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Harshitha-teki/leetcode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Harshitha-teki/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
