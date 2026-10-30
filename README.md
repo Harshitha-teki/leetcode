@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Harshitha-teki/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Harshitha-teki/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Harshitha-teki/leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Harshitha-teki/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harshitha-teki/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitha-teki/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshitha-teki/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Harshitha-teki/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshitha-teki/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Harshitha-teki/leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha-teki/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshitha-teki/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshitha-teki/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Harshitha-teki/leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshitha-teki/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Harshitha-teki/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Combinatorics
